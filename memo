@@ -1,0 +1,3 @@
+#VS CODE 控制台输入vue不好用的办法
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
